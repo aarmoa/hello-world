@@ -1,2 +1,2 @@
 # hello-world
-testing git
+testing git by modifying a file
